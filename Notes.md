@@ -19,6 +19,8 @@ Saved in Python_Programs/Machine_Learning_
     - _Make sure to drop categories that are not in the test set!_
     - check out df.align?
 
+__NOTE__: Do 1 dataset at a time to save processing time and memory.
+
 
 # Model Prep
   - Look for correlations
