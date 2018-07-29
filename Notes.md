@@ -9,6 +9,7 @@ Saved in Python_Programs/Machine_Learning_
   - Examine Distribution of Target (check for imbalanced classes)
   - Examine Column Types
     - Check and Separate dtypes (dates, objects, numbers)
+    - KEEP TRACK OF THESE DTYPE MAPPINGS/DISTRIBUTION
   - Remove/Impute Anomalies
     - You can also create a categorical value (0,1) for whether or not the data was anomalous.
     - Only for numeric vars yea?
@@ -18,11 +19,16 @@ Saved in Python_Programs/Machine_Learning_
   - Label Encode binary features and OHE multiple categorical ftrs
     - _Make sure to drop categories that are not in the test set!_
     - check out df.align?
+  - Aggregate to Training Dataset Level
+
 
 __NOTE__: Do 1 dataset at a time to save processing time and memory.
 
 
 # Model Prep
+  - Merge All Datasets
+  - Align columns to the TEST dataset
+  - Fill/Drop Nas
   - Look for correlations
   - Feature Engineering
   - Feature Selection
@@ -44,3 +50,12 @@ most manual portion of cleaning.
 ## Application
 
 NOTE REG = Registered
+
+
+----------------------------------------
+
+# New Notes
+
+Since I have to deal with nulls after merging anyway - can I just aggregate first?
+
+Aggregate to training/ input dataset and then start cleaning.
