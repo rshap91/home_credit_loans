@@ -1,0 +1,1 @@
+{"lgb": {"max_params": {"boosting": "dart", "colsample_bytree": 0.21097363734776334, "learning_rate": 0.18490698058684293, "max_depth": 25, "subsample": 0.010000000000000009, "scale_pos_weight": 5, "num_iterations": 300}, "max_val": 0.7647882955331687}}

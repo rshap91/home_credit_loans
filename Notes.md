@@ -40,22 +40,34 @@ __NOTE__: Do 1 dataset at a time to save processing time and memory.
 __NOTE__: Make sure that you perform all transformations you made on the training data
         on the testing data as well!
 
-# Anomalies:
-
-Just need a note on this as it seems to be the least straight forward and
-most manual portion of cleaning.
 
 
+# Modeling
 
-## Application
+Gonna do a few things:
 
-NOTE REG = Registered
+Feature selection
+  - loan_preds_kaggle.ipynb
+    * I've run this once and it didn't help the model.
+      Will run again after feature engineering,
+      but will probably need to do some sort of search over number of features
+      to use based on cross_validation... tough/intensive
+
+Build And Tune Models
+  - NavieBayes
+    o fit independent nb algos and make gausian that predicts based on probabilities (or just avg them)
+  - Trees
+    o Param tune and fit ET, RF, GB, LightGBM, XGB
+    o Param tune with BayesianOptimization
+    o See Machine_Learning folder
+
+Sampling
+  - Over and Under Sample Classes in training
+  - Look at online training
+
+Feature Engineering
+  - Cluster for new features
+  - PCA/SVD/NMF
 
 
-----------------------------------------
-
-# New Notes
-
-Since I have to deal with nulls after merging anyway - can I just aggregate first?
-
-Aggregate to training/ input dataset and then start cleaning.
+__NOTE__ For Each Model, save/submit the _parameters_ in the note section!

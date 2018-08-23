@@ -1,0 +1,508 @@
+ext_source_2,3.2199388885618667
+ext_source_3,2.989627463035215
+amt_goods_price_application,2.2975997114808235
+nb_probs,2.285853913895509
+name_income_type_Pensioner,2.1226288126721604
+name_contract_status_Refused_application,2.0689118793786263
+amt_credit_application,2.0466309259707227
+occupation_type_Laborers,2.0092405986268163
+ext_source_1,1.9565206091067164
+days_birth,1.8746265321531992
+days_employed,1.7377940001151888
+region_rating_client_w_city,1.6287076253967367
+days_last_phone_change,1.6036765605149434
+occupation_type_Low-skill Laborers,1.5813404872614196
+code_reject_reason_SCOFR,1.4791827970574642
+flag_emp_phone,1.4658224965213251
+amt_annuity_application,1.4629632608916472
+num_instalment_version_1.0,1.4366737912584993
+name_contract_status_Active,1.4278290882447826
+pca_ftr_59,1.4174085636382283
+def_30_cnt_social_circle,1.4104287104881499
+elevators_medi,1.384054178602019
+days_employed_anom,1.3745238464963465
+days_instalment,1.3684635935562663
+code_reject_reason_HC,1.3657315943257418
+elevators_mode,1.3645534956680527
+organization_type_Construction,1.3393293326811415
+code_reject_reason_LIMIT,1.3378711448886937
+credit_type_Mortgage,1.3216976781463174
+organization_type_Transport: type 3,1.3077362991979449
+floorsmax_mode,1.3068292565034658
+amt_credit_sum_limit,1.303571019385775
+reg_city_not_work_city,1.2661030141116505
+name_type_suite_nan,1.2635323504765719
+name_yield_group_low_action,1.2616449308371698
+cnt_payment,1.2500994843185387
+days_last_due_1st_version,1.2489582578002443
+amt_req_credit_bureau_qrt,1.2093922147470249
+flag_document_13,1.202683037285603
+name_portfolio_POS,1.19461880692473
+flag_document_16,1.1925292054819767
+name_income_type_Unemployed,1.1908653444787245
+name_education_type_Lower secondary,1.183891317866062
+name_product_type_walk-in,1.1781617405315645
+name_yield_group_low_normal,1.176567662481726
+days_first_due_anom,1.1762548482972164
+sk_dpd_pos,1.1728986463659605
+product_combination_POS industry without interest,1.1691972224442186
+name_goods_category_Furniture,1.1690397741400778
+credit_type_Microloan,1.1682551478037837
+amt_req_credit_bureau_year,1.159082153904114
+flag_document_14,1.158085741367377
+amt_req_credit_bureau_mon,1.1560407019394692
+reg_city_not_live_city,1.1513207973826245
+organization_type_Military,1.1495675742392006
+cnt_children,1.149473429571896
+nonlivingarea_mode,1.1491699027444182
+rate_down_payment,1.1483522761329654
+days_first_due,1.1482707082422654
+num_instalment_version_2.0,1.1481341149564301
+credit_active_Closed,1.1455648137786123
+name_yield_group_high,1.1383414331781674
+organization_type_Bank,1.1382515289620232
+nonlivingarea_avg,1.1379741071011154
+flag_document_18,1.1348717802621904
+days_last_due_1st_version_anom,1.1338847420590863
+pca_ftr_106,1.131713348293874
+credit_type_Credit card,1.1289873254474563
+amt_payment,1.128426123766735
+svd_ftr_6,1.1219908794384754
+name_income_type_Working,1.1199757686079912
+commonarea_medi,1.1097736492553398
+pca_ftr_104,1.1081167468588358
+commonarea_mode,1.1025353293029199
+organization_type_XNA,1.101762684823255
+amt_annuity,1.1013190576934917
+flag_document_15,1.0978206874161125
+amt_application,1.0922348149295853
+organization_type_Industry: type 12,1.0904952194887216
+num_instalment_version_5.0,1.0869703216347997
+amt_instalment,1.0867958871258645
+balance_status_C_lt1yr,1.0861230213914612
+organization_type_Realtor,1.084899330311882
+product_combination_Cash X-Sell: low,1.0810030332867688
+years_build_mode,1.07996449585665
+num_instalment_version_11.0,1.077130387001312
+landarea_medi,1.0765412944618744
+name_seller_industry_Clothing,1.0755677037719704
+landarea_avg,1.0751552335482437
+balance_status_1_lt1yr,1.0750377548253678
+pca_ftr_56,1.074353558915093
+organization_type_Trade: type 6,1.0717966191248294
+days_termination,1.0717317359976
+years_build_avg,1.0703782139654945
+name_contract_status_Returned to the store,1.0656751994105924
+days_last_due_anom,1.06529059914603
+svd_ftr_138,1.063562863108718
+svd_ftr_139,1.0615347541813782
+cnt_fam_members,1.05837928792336
+name_goods_category_Clothing and Accessories,1.0576388432401809
+amt_income_total_anom,1.0553647121585146
+svd_ftr_106,1.0511007303613458
+hour_appr_process_start_prev_apps,1.050314441236225
+product_combination_Cash X-Sell: high,1.0489660336580655
+flag_document_2,1.0475848941166197
+svd_ftr_60,1.0470708478615707
+num_instalment_version_39.0,1.0466495926355435
+code_reject_reason_SCO,1.0452831124589244
+years_beginexpluatation_medi,1.0387944325110985
+organization_type_Legal Services,1.0383920674611142
+name_goods_category_XNA,1.034819082609786
+name_goods_category_Sport and Leisure,1.0335150356292724
+name_contract_type_XNA,1.0312219620174146
+nonlivingapartments_mode,1.0303106749747337
+organization_type_Transport: type 1,1.0301833168703984
+flag_document_21,1.0295976182427113
+name_cash_loan_purpose_Other,1.0279595161514024
+pca_ftr_87,1.027523742710856
+flag_document_17,1.0264306159979513
+svd_ftr_88,1.025967238153315
+name_cash_loan_purpose_Payments on other loans,1.0255743432532973
+name_family_status_Separated,1.0253246876014623
+balance_status_C_yr5_10,1.0229921042747965
+pca_ftr_142,1.0228712038239913
+amt_req_credit_bureau_week,1.022133181213096
+pca_ftr_145,1.0218119452287069
+num_instalment_version_19.0,1.0210657672877181
+svd_ftr_105,1.0204664155037364
+name_goods_category_Photo / Cinema Equipment,1.0198049962691695
+days_last_due,1.019714264182544
+name_cash_loan_purpose_Car repairs,1.0188929915290101
+name_goods_category_Jewelry,1.0176179997355352
+flag_document_4,1.0166698043239257
+credit_active_Sold,1.0164739700842722
+organization_type_Trade: type 4,1.0163481553371252
+svd_ftr_82,1.0154751208257535
+num_instalment_version_40.0,1.0141446370119185
+name_income_type_Student,1.0141446370119185
+product_combination_Card X-Sell,1.0139056419255446
+num_instalment_version_41.0,1.0137460939792278
+channel_type_Credit and cash offices,1.0137072098112203
+num_instalment_version_37.0,1.0123207950069155
+name_seller_industry_Connectivity,1.0119124703404987
+amt_req_credit_bureau_day,1.0106121621793813
+name_client_type_Repeater,1.009631390501111
+name_cash_loan_purpose_Medicine,1.009163785190809
+flag_document_10,1.0088205731579505
+nflag_last_appl_in_day,1.008697525088692
+name_cash_loan_purpose_Gasification / water supply,1.0083672032811482
+amt_credit_sum_overdue,1.0082233296427172
+balance_status_2_lt1yr,1.0077846826531838
+pca_ftr_121,1.006262418247002
+name_goods_category_Medical Supplies,1.0057473866636442
+name_goods_category_Mobile,1.0054797343646564
+svd_ftr_136,1.0015524182694786
+pca_ftr_136,1.0014099016822662
+svd_ftr_73,1.0008670995873743
+svd_ftr_83,1.000748751828534
+pca_ftr_72,1.000310681429257
+pca_ftr_119,1.0000065163225427
+rate_interest_primary,1.0
+weekday_appr_process_start_SUNDAY_prev_apps,1.0
+svd_ftr_48,1.0
+svd_ftr_63,1.0
+svd_ftr_68,1.0
+svd_ftr_66,1.0
+amt_credit_prev_apps,1.0
+svd_ftr_33,1.0
+balance_status_5_yr5_10,1.0
+name_cash_loan_purpose_Buying a garage,1.0
+pca_ftr_110,1.0
+name_cash_loan_purpose_Hobby,1.0
+svd_ftr_30,1.0
+balance_status_3_yr5_10,1.0
+svd_ftr_28,1.0
+svd_ftr_26,1.0
+name_cash_loan_purpose_Wedding / gift / holiday,1.0
+name_contract_status_Unused offer,1.0
+code_reject_reason_SYSTEM,1.0
+code_reject_reason_XAP,1.0
+balance_status_4_yr5_10,1.0
+credit_type_Loan for working capital replenishment,1.0
+svd_ftr_71,1.0
+amt_credit_sum_debt,1.0
+pca_ftr_103,1.0
+km_ftr_22,1.0
+svd_ftr_137,1.0
+svd_ftr_135,1.0
+svd_ftr_126,1.0
+svd_ftr_110,1.0
+svd_ftr_107,1.0
+svd_ftr_103,1.0
+amt_credit_max_overdue,1.0
+svd_ftr_90,1.0
+balance_status_0_yr1_5,1.0
+days_credit_update_anom,1.0
+days_credit_enddate_anom,1.0
+credit_currency_currency 3,1.0
+credit_currency_currency 4,1.0
+credit_type_Consumer credit,1.0
+credit_type_Loan for business development,1.0
+credit_type_Loan for the purchase of equipment,1.0
+svd_ftr_25,1.0
+credit_type_Real estate loan,1.0
+code_reject_reason_XNA,1.0
+km_ftr_57,1.0
+svd_ftr_23,1.0
+num_instalment_version_35.0,1.0
+pca_ftr_126,1.0
+num_instalment_version_38.0,1.0
+pca_ftr_124,1.0
+pca_ftr_118,1.0
+pca_ftr_113,1.0
+name_contract_status_Approved_pos,1.0
+pca_ftr_102,1.0
+pca_ftr_2,1.0
+pca_ftr_6,1.0
+pca_ftr_23,1.0
+pca_ftr_25,1.0
+pca_ftr_27,1.0
+pca_ftr_45,1.0
+pca_ftr_47,1.0
+pca_ftr_62,1.0
+pca_ftr_65,1.0
+pca_ftr_67,1.0
+pca_ftr_83,1.0
+pca_ftr_89,1.0
+pca_ftr_70,1.0
+pca_ftr_77,1.0
+name_goods_category_Auto Accessories,1.0
+pca_ftr_96,1.0
+num_instalment_version_36.0,1.0
+pca_ftr_1,1.0
+pca_ftr_127,1.0
+name_goods_category_Direct Sales,1.0
+name_goods_category_Fitness,1.0
+pca_ftr_130,1.0
+pca_ftr_73,1.0
+name_goods_category_Gardening,1.0
+name_goods_category_Tourism,1.0
+name_goods_category_Weapon,1.0
+name_goods_category_Construction Materials,1.0
+svd_ftr_3,1.0
+channel_type_Car dealer,1.0
+svd_ftr_2,1.0
+svd_ftr_1,1.0
+name_seller_industry_Construction,1.0
+name_seller_industry_Industry,1.0
+name_seller_industry_Jewelry,1.0
+name_seller_industry_Tourism,1.0
+pca_ftr_146,1.0
+pca_ftr_137,1.0
+pca_ftr_135,1.0
+name_goods_category_Education,1.0
+days_credit,0.7853803767361418
+occupation_type_MISSING,0.7316207994827696
+days_credit_update,0.693952277815001
+name_education_type_Secondary / secondary special,0.682989805874912
+occupation_type_Drivers,0.638124276028422
+wallsmaterial_mode_Panel,0.616384310014537
+live_city_not_work_city,0.6155374989553248
+name_contract_type,0.5986173500424454
+name_housing_type_With parents,0.5894442294386673
+flag_document_3,0.580639399307894
+region_rating_client,0.5711952510053413
+flag_document_6,0.5591722690180982
+organization_type_Self-employed,0.5494607805610513
+flag_work_phone,0.5046623190857468
+name_family_status_Single / not married,0.45958978974072895
+days_id_publish,0.4535697559440364
+name_income_type_State servant,0.39024944925822735
+elevators_avg,0.3876718390282378
+days_registration,0.3728723152738283
+organization_type_Business Entity Type 3,0.37159782061788915
+flag_phone,0.34880041785375077
+days_enddate_fact,0.34753056215204764
+name_payment_type_XNA,0.3253926548446141
+region_population_relative,0.3224254888303746
+def_60_cnt_social_circle,0.3207157063475865
+name_housing_type_Rented apartment,0.3098531907655385
+flag_own_car,0.3080631964876843
+occupation_type_Core staff,0.30477801941010657
+name_family_status_Widow,0.29195715081926144
+floorsmax_avg,0.2879618026674913
+occupation_type_Sales staff,0.2866748428633137
+floorsmax_medi,0.2862763310803544
+occupation_type_Managers,0.28332435231773945
+occupation_type_Security staff,0.22244190034848493
+totalarea_mode,0.21961587085597967
+livingarea_avg,0.2123524810148011
+livingarea_medi,0.21214267742140291
+livingarea_mode,0.2004992534056458
+pca_ftr_66,0.20027145088964982
+product_combination_POS industry with interest,0.19474618791702147
+organization_type_School,0.18839086324385215
+apartments_medi,0.18774061087753985
+fondkapremont_mode_reg oper account,0.1873053618321911
+apartments_avg,0.18645461634847954
+apartments_mode,0.17689147974555375
+occupation_type_High skill tech staff,0.17446942285733302
+days_entry_payment,0.16899262343565663
+hour_appr_process_start_application,0.16245661924464813
+occupation_type_Cooking staff,0.15383863920796997
+days_decision,0.14477537349689157
+floorsmin_avg,0.14027452375066646
+floorsmin_medi,0.13918705639899046
+nonlivingarea_medi,0.13818752948051904
+floorsmin_mode,0.13318554873344599
+livingapartments_medi,0.13108077362355353
+amt_income_total,0.12765122723245165
+livingapartments_avg,0.1261107953447225
+organization_type_Restaurant,0.12494495711671616
+organization_type_Security Ministries,0.12488435694855086
+livingapartments_mode,0.12366886829704106
+own_car_age,0.12366122874241453
+organization_type_Police,0.12316790940184863
+organization_type_Medicine,0.12195936956450193
+entrances_medi,0.11269139427004629
+organization_type_Industry: type 3,0.11041899671630975
+product_combination_POS mobile with interest,0.11024038547702018
+basementarea_avg,0.11000780545136508
+commonarea_avg,0.10914872236282555
+basementarea_medi,0.10764306634698152
+organization_type_Trade: type 3,0.10711080084914557
+basementarea_mode,0.1006670367317146
+entrances_avg,0.09971624739687993
+flag_document_8,0.09786351595144492
+organization_type_Trade: type 7,0.09347980511726867
+occupation_type_Medicine staff,0.09136066918466763
+entrances_mode,0.08845242089175386
+name_contract_type_Revolving loans,0.08756454072241934
+months_balance_pos,0.08638290302321663
+occupation_type_Waiters/barmen staff,0.08453975073787744
+organization_type_University,0.08191461538688288
+years_build_medi,0.079491552460727
+organization_type_Government,0.07862372159398479
+name_contract_type_Consumer loans,0.07848212071361203
+pca_ftr_139,0.0759956706014886
+num_instalment_version_10.0,0.07403022964121612
+landarea_mode,0.07398619926861867
+organization_type_Industry: type 9,0.07071713601968782
+organization_type_Industry: type 1,0.07045030147172746
+fondkapremont_mode_org spec account,0.0701827834245012
+organization_type_Security,0.06935921270202358
+fondkapremont_mode_reg oper spec account,0.06888640824737098
+name_housing_type_Office apartment,0.0669238989004054
+num_instalment_version_14.0,0.0663442123255309
+reg_region_not_work_region,0.06480382232034362
+reg_region_not_live_region,0.06461315361635188
+num_instalment_version_12.0,0.06378915056421072
+"wallsmaterial_mode_Stone, brick",0.06351853344535528
+organization_type_Kindergarten,0.06305018818110719
+num_instalment_version_3.0,0.06302818188021285
+obs_30_cnt_social_circle,0.06194522905084154
+organization_type_Transport: type 4,0.06145051725242949
+obs_60_cnt_social_circle,0.061224136926252816
+balance_status_0_lt1yr,0.06121847207903343
+num_instalment_version_13.0,0.058446249737901156
+occupation_type_Private service staff,0.055166949067167736
+name_type_suite_Other_B_application,0.05479209333505237
+name_cash_loan_purpose_Urgent needs,0.054257214891915324
+num_instalment_version_16.0,0.053935462374438796
+flag_document_11,0.05021189453095336
+flag_own_realty,0.04829096219852376
+product_combination_Cash Street: high,0.04804285052018476
+name_type_suite_Unaccompanied_application,0.04705066899370245
+flag_document_9,0.04613583086990797
+wallsmaterial_mode_Monolithic,0.044807326638045535
+organization_type_Hotel,0.0442388832919729
+weekday_appr_process_start_TUESDAY_application,0.04401441933193343
+pca_ftr_61,0.04158575466219745
+days_credit_enddate,0.04140879116893556
+num_instalment_version_15.0,0.04113919061967039
+num_instalment_version_4.0,0.040714042365581654
+name_cash_loan_purpose_Repairs,0.0402911866852857
+svd_ftr_12,0.03884577592382627
+num_instalment_version_20.0,0.038463458870396684
+name_client_type_Refreshed,0.037169352556189805
+num_instalment_version_17.0,0.037039167228007396
+nonlivingapartments_avg,0.03686932978238133
+balance_status_0_yr5_10,0.03616181305542088
+svd_ftr_56,0.035412310317089496
+nonlivingapartments_medi,0.03524493762687527
+credit_type_Car loan,0.03396755187098778
+num_instalment_version_18.0,0.033924902803259424
+name_housing_type_Municipal apartment,0.03382659579098895
+organization_type_Industry: type 4,0.033195504170517545
+weekday_appr_process_start_THURSDAY_prev_apps,0.0324890666610337
+name_seller_industry_XNA,0.032240924308360085
+organization_type_Trade: type 2,0.03218677144628501
+years_beginexpluatation_avg,0.031835619239660426
+organization_type_Services,0.031810301019022214
+flag_document_5,0.030978106387168178
+organization_type_Insurance,0.030965712980224963
+organization_type_Other,0.030311130862569355
+name_portfolio_XNA,0.029969328083903537
+wallsmaterial_mode_Wooden,0.02957453481287336
+num_instalment_version_22.0,0.029241206496211543
+product_combination_Cash Street: middle,0.02865311562890484
+years_beginexpluatation_mode,0.028458394029483726
+pca_ftr_125,0.02800956832615478
+num_instalment_version_24.0,0.02778137975469892
+name_education_type_Incomplete higher,0.0271052500405587
+svd_ftr_145,0.025445493322808103
+organization_type_Business Entity Type 2,0.024821573677088687
+svd_ftr_67,0.023984066516544163
+balance_status_C_yr1_5,0.023895552791882553
+housetype_mode_specific housing,0.023340937152465487
+svd_ftr_32,0.023301578034411404
+num_instalment_version_23.0,0.023108865766792688
+svd_ftr_94,0.022737050680897066
+num_instalment_version_21.0,0.022170465168882925
+flag_email,0.021445353953914635
+organization_type_Industry: type 5,0.020553190134530636
+organization_type_Cleaning,0.0205244365793738
+organization_type_Culture,0.02036867332578833
+organization_type_Electricity,0.02022281075809836
+pca_ftr_149,0.0201006914204821
+live_region_not_work_region,0.01974463262111449
+name_seller_industry_Furniture,0.019296818756772197
+weekday_appr_process_start_SATURDAY_prev_apps,0.019002913494198186
+weekday_appr_process_start_SATURDAY_application,0.01849449145327476
+product_combination_Cash,0.01836228247953498
+organization_type_Industry: type 13,0.018120075892154735
+num_instalment_version_26.0,0.01731941207560391
+svd_ftr_62,0.017162569270253066
+num_instalment_version_25.0,0.017039923273320292
+organization_type_Industry: type 2,0.016843601561129577
+occupation_type_HR staff,0.01646283891167855
+num_instalment_version_28.0,0.016395808176557485
+name_yield_group_middle,0.015967921743937373
+occupation_type_Secretaries,0.015537896748917986
+occupation_type_IT staff,0.015252319168949554
+num_instalment_version_30.0,0.01499024958788102
+weekday_appr_process_start_SUNDAY_application,0.014906102088741166
+product_combination_POS others without interest,0.014701403820527838
+num_instalment_version_29.0,0.01448229341592574
+wallsmaterial_mode_Others,0.014214179001221081
+weekday_appr_process_start_WEDNESDAY_application,0.013727011589546437
+pca_ftr_148,0.013484229297122322
+num_instalment_version_27.0,0.013296513648814129
+name_cash_loan_purpose_Buying a used car,0.013052820579072491
+num_instalment_version_42.0,0.01300246535535376
+product_combination_POS household without interest,0.012595708604235844
+organization_type_Industry: type 11,0.012530973807303957
+flag_cont_mobile,0.011784484391118465
+num_instalment_version_44.0,0.011548935084142349
+name_contract_status_Canceled_application,0.011159570943571812
+num_instalment_version_31.0,0.011130716539678497
+num_instalment_version_43.0,0.010956260446478034
+"name_type_suite_Spouse, partner_application",0.010907115233609797
+emergencystate_mode_Yes,0.010875061215164484
+weekday_appr_process_start_TUESDAY_prev_apps,0.010680816317941488
+name_contract_status_Amortized debt,0.010508378599469249
+num_instalment_version_33.0,0.010412145434151449
+channel_type_Contact center,0.01026877896546345
+amt_instalment_anom,0.01017115856721629
+amt_payment_anom,0.01017115856721629
+pca_ftr_7,0.010028990064268124
+product_combination_POS mobile without interest,0.009922596322904374
+nflag_insured_on_approval,0.009565819846331598
+flag_document_7,0.009479431669841344
+organization_type_Emergency,0.009097008229557065
+num_instalment_version_34.0,0.00905282595449222
+num_instalment_version_32.0,0.008969625403568715
+organization_type_Industry: type 8,0.008956903882624599
+name_type_suite_Other_A_application,0.00855662322888858
+flag_document_19,0.008468888077220234
+name_contract_status_Completed_pos,0.00835155698472206
+organization_type_Religion,0.008341280831527149
+product_combination_Cash Street: low,0.008067998150349387
+svd_ftr_109,0.00798595641732439
+organization_type_Mobile,0.007910993330907296
+num_instalment_version_45.0,0.00777899465674303
+name_portfolio_Cash,0.007752125277740591
+num_instalment_version_7.0,0.007581872442895707
+num_instalment_version_9.0,0.007257798163671702
+organization_type_Industry: type 10,0.007118945450700277
+organization_type_Postal,0.007020669558786585
+name_goods_category_Consumer Electronics,0.006824653033218648
+days_termination_anom,0.006703101717773485
+channel_type_Stone,0.006673197004773695
+num_instalment_version_46.0,0.006667694045733705
+weekday_appr_process_start_WEDNESDAY_prev_apps,0.0066619564093375015
+name_goods_category_Other,0.006582352210042389
+name_cash_loan_purpose_XNA,0.006433541961962781
+name_cash_loan_purpose_Purchase of electronic equipment,0.006358906826629268
+balance_status_3_lt1yr,0.00617685667480732
+credit_active_Bad debt,0.005858817052776736
+num_instalment_version_8.0,0.005620962756399028
+balance_status_4_lt1yr,0.0055183202272020004
+name_seller_industry_Consumer electronics,0.005400981420275843
+wallsmaterial_mode_Mixed,0.0049474973066186865
+pca_ftr_140,0.004873903472905237
+channel_type_Country-wide,0.0042986223984826525
+pca_ftr_81,0.003517138612150721
+pca_ftr_114,0.003337884041710452
+svd_ftr_4,0.002868499911608703
+pca_ftr_143,0.002575687404157024
+weekday_appr_process_start_THURSDAY_application,0.00217442629998852
+svd_ftr_120,0.002074072617076502
+svd_ftr_142,0.001714285697930635
+pca_ftr_91,0.0011737126595159524
+pca_ftr_57,0.0011704363002229305
+svd_ftr_91,0.0007259851781268248
+organization_type_Telecom,0.0002335268886257717
+svd_ftr_5,0.00015671815753398575
+svd_ftr_74,3.3887499982461403e-06
