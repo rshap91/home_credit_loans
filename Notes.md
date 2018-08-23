@@ -14,21 +14,21 @@ Saved in Python_Programs/Machine_Learning_
     - You can also create a categorical value (0,1) for whether or not the data was anomalous.
     - Only for numeric vars yea?
   - Fill Missing Variables
-    - strings have wierd NAs
+    - strings have weird NAs
     - Fill with Interpolations? Median? Mean? See notebook.
   - Label Encode binary features and OHE multiple categorical ftrs
     - _Make sure to drop categories that are not in the test set!_
     - check out df.align?
-  - Aggregate to Training Dataset Level
+  - Aggregate to Training Dataset Level (Application)
+  - Merge All Datasets
+  - Align columns to the TEST dataset
+  - Fill/Drop Nas (Created by merge)
 
 
 __NOTE__: Do 1 dataset at a time to save processing time and memory.
 
 
 # Model Prep
-  - Merge All Datasets
-  - Align columns to the TEST dataset
-  - Fill/Drop Nas
   - Look for correlations
   - Feature Engineering
   - Feature Selection
